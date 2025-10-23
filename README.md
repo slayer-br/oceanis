@@ -49,9 +49,13 @@ O projeto foi desenvolvido com foco em **responsividade**, garantindo boa experi
 
 ## 📸 Prévia do projeto
 
-| 📱 Versão Mobile | 💻 Versão Desktop |
-|------------------|-------------------|
-| ![Mobile](./src/images/oceanis-mobile.gif) | ![Desktop](./src/images/oceanis-desktop.gif) |
+| 📱 Versão Mobile | 
+|------------------|
+| ![Mobile](./src/images/oceanis-mobile.gif) | 
+
+| 💻 Versão Desktop |
+|-------------------|
+| ![Desktop](./src/images/oceanis-desktop.gif) |
 
 ---
 
