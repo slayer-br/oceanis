@@ -55,6 +55,13 @@ O projeto foi desenvolvido com foco em **responsividade**, garantindo boa experi
 
 ---
 
+## 🔗 Links
+
+- GitHub: <a href="https://github.com/slayer-br/oceanis" target="_blank" rel="noopener noreferrer">Oceanis Cruises</a>
+- Site ao vivo: <a href="https://slayer-br.github.io/oceanis/" target="_blank" rel="noopener noreferrer">Oceanis Cruises</a>
+
+---
+
 ## 🧑‍💻 Como visualizar o projeto
 
 1. Clone este repositório:
