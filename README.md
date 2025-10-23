@@ -51,11 +51,11 @@ O projeto foi desenvolvido com foco em **responsividade**, garantindo boa experi
 
 | 📱 Versão Mobile | 
 |------------------|
-| ![Mobile](./src/images/oceanis-mobile.gif) | 
+| ![Mobile](/src/images/oceanis-mobile.gif) | 
 
 | 💻 Versão Desktop |
 |-------------------|
-| ![Desktop](./src/images/oceanis-desktop.gif) |
+| ![Desktop](/src/images/oceanis-desktop.gif) |
 
 ---
 
