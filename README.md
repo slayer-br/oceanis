@@ -62,19 +62,6 @@ O projeto foi desenvolvido com foco em **responsividade**, garantindo boa experi
 
 ---
 
-## 🧑‍💻 Como visualizar o projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/oceanis.git
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd oceanis
-   ```
-3. Abra o arquivo `index.html` no navegador.
-
----
 
 ## 🏁 Status do projeto
 
